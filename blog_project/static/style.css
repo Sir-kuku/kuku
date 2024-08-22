@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    padding: 15px;
+}
+body{
+    background-color: rgb(57, 166, 180);
+    color: black;
+}
+.title{
+    color: rgb(20, 37, 13);
+    font-size: large;
+}
+.mew-post-btn{
+    background-color: rgb(116, 35, 153);
+    color: rgb(199, 19, 19);
+}
+h1{
+    color: red;
+}
